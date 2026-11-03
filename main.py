@@ -1,3 +1,5 @@
+def main ():
+    print("I am doing something.")
 
 
 
